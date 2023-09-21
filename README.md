@@ -10,3 +10,4 @@ to install the dependencies. Then just run
 npm run electron:serve
 ```
 and it's done.
+Inside the folder subtitles_the_100 has some files .srt for you to test the application.
